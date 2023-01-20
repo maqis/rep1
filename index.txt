@@ -1,2 +1,3 @@
 header to-merge
+блок с фильтром товаров
 to-merge-brench
